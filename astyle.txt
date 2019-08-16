@@ -1,0 +1,18 @@
+# see http://astyle.sourceforge.net/astyle.html for information on settings
+
+--style=allman
+
+# 4 spaces for tabs
+-s4
+
+# no pad inside ( )
+--unpad-paren
+
+# verbose output
+-v
+
+# do not retain original files
+-n
+
+# max char per line
+--max-code-length=80
